@@ -1,0 +1,1 @@
+Package for toasts for react applications.
